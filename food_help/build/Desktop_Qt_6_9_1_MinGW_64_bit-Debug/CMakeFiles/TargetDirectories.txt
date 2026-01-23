@@ -1,0 +1,9 @@
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/FoodRecommender.dir
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/FoodRecommender_autogen_timestamp_deps.dir
+C:/food_help/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/FoodRecommender_autogen.dir
