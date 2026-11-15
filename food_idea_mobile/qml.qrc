@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="Main.qml">qml/Main.qml</file>
+        <file alias="MealCard.qml">qml/MealCard.qml</file>
+        <file alias="RecipeCard.qml">qml/RecipeCard.qml</file>
+    </qresource>
+</RCC>
