@@ -3,5 +3,6 @@
         <file alias="Main.qml">qml/Main.qml</file>
         <file alias="MealCard.qml">qml/MealCard.qml</file>
         <file alias="RecipeCard.qml">qml/RecipeCard.qml</file>
+            <file alias="trash_icon.png">qml/trash_icon.png</file>
     </qresource>
 </RCC>
